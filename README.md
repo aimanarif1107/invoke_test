@@ -87,6 +87,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## References 
 
--- Laravel 5.8 Tutorial by Php Step by Step (URL = https://www.youtube.com/playlist?list=PL8p2I9GklV45qSQg-9EhKoQiW1pYZbC8l )
--- Setup with live webhosting on https://www.000webhost.com/ 
--- Tutorial on setting up Laravel website on 00webhost (URL = https://www.000webhost.com/forum/t/deploy-laravel-project-into-000webhost-site/127323?__cf_chl_jschl_tk__=114b476f1d81b3c5cc5e823e4ce4ca122fd1adf6-1594180263-0-AaNbttiPIxSwuKWnZrnI0EHLN6enpb_rR1ZCgODVzIJH2qsATTd3ts4glr1lX2dXRGWPnzs3s300HcBF0YEPKSEMR_Yh2NSj2cec308G1-96F1bqasjS4KCM9ewMZ3W1DpBTdoinvDXGGfNDEyjXoXGAX4PNVDjqZL1qLz-MYl6I7kIe1g2gFjF8VNYk2nW3eqru2U37YH--TPPCWCFokQo0bjMl95pAML1v45_4_POSG_C8Gpt_qwAimDbQgG6xhKjhWmN4lrJGxRx5r7ElFWxLmV58uHqlZfcHtHPobG-Or7rLimGOwvyiJkRdeZ-ks4dgG4DYYQycJE264Dm2hzT9M9tBUCL5yx9x5kxYegis )
+- **Laravel 5.8 Tutorial by Php Step by Step (URL = https://www.youtube.com/playlist?list=PL8p2I9GklV45qSQg-9EhKoQiW1pYZbC8l )**
+- **Setup with live webhosting on https://www.000webhost.com/ **
+- **Tutorial on setting up Laravel website on 00webhost (URL = https://www.000webhost.com/forum/t/deploy-laravel-project-into-000webhost-site/127323?__cf_chl_jschl_tk__=114b476f1d81b3c5cc5e823e4ce4ca122fd1adf6-1594180263-0-AaNbttiPIxSwuKWnZrnI0EHLN6enpb_rR1ZCgODVzIJH2qsATTd3ts4glr1lX2dXRGWPnzs3s300HcBF0YEPKSEMR_Yh2NSj2cec308G1-96F1bqasjS4KCM9ewMZ3W1DpBTdoinvDXGGfNDEyjXoXGAX4PNVDjqZL1qLz-MYl6I7kIe1g2gFjF8VNYk2nW3eqru2U37YH--TPPCWCFokQo0bjMl95pAML1v45_4_POSG_C8Gpt_qwAimDbQgG6xhKjhWmN4lrJGxRx5r7ElFWxLmV58uHqlZfcHtHPobG-Or7rLimGOwvyiJkRdeZ-ks4dgG4DYYQycJE264Dm2hzT9M9tBUCL5yx9x5kxYegis )**
